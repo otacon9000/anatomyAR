@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1230703701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8201998f28e4a6ad91f259a7e8ed3937
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 895bbf788ec2701a31011fe179d93d42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Horse.prefab
+Dependencies: []
